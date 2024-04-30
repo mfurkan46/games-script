@@ -113,7 +113,7 @@ function listener() {
         .then((text) => {
           const price2 = text
             .match(/([1-9][0-9]*((,| )[0-9]{3})*|0)(\.[0-9]+)*[ ](\₺)/gm)[0]
-            .replace("₺", "");
+            .replace("₺"||"$", "");
           run2func(Number(price2.replaceAll(".", "")), value, minprice);
         });
 
