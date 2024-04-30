@@ -5,7 +5,7 @@
 // @version     0.0.1
 // @author      @mfurkan46
 // @description Market Sell Bot
-// @downloadURL https://raw.githubusercontent.com/mfurkan46/games-script/main/MarketSell.js
+// @downloadURL https://github.com/mfurkan46/games-script/raw/main/MarketSell.js
 // ==/UserScript==
 
 
