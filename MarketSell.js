@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name        MarketSellScript
 // @match       *://*rivalregions.com/
@@ -7,7 +6,6 @@
 // @description Market Sell Bot
 // @downloadURL https://github.com/mfurkan46/games-script/raw/main/MarketSell.js
 // ==/UserScript==
-
 
 window.addEventListener("popstate", listener);
 
